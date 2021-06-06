@@ -1,11 +1,8 @@
 body, h1, h2, h3, ul, li, p, dd, dt, dl {
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
 }
 
-html.textoMaior {
-    font-size: 150%;
-}
 
 img {
     display: block;
@@ -146,6 +143,7 @@ body {
 .faq-lista dt {
     font-family: monospace;
     font-weight: bold;
+    font-size: 1rem;
 
     margin-top: 2rem;
     margin-bottom: .5rem;
@@ -243,11 +241,11 @@ body {
     }
 
     .menu {
-        margin-top: 0px;
+        margin-top: 0;
     }
 
     .copy {
-        margin-bottom: 0px;
+        margin-bottom: 0;
     }
 
 }
