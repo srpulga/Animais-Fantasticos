@@ -287,7 +287,7 @@ body {
 
 .js .js-accordion dd.ativo {
     display: block;
-    animation: slideDown .10s forwards;
+    animation: slideDown .30s forwards;
 }
 
 @keyframes slideDown {
